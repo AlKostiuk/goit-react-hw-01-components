@@ -1,0 +1,70 @@
+/*
+.statistics {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  outline: 1px solid black;
+  padding: 10px;
+  border-radius: 5px;
+
+}
+
+
+.title {
+  text-align: center;
+  font-size: 25px;
+}
+
+.statList{
+  margin: 0;
+  margin-top: 10px;
+  display: flex;
+  gap: 15px;
+  padding: 0;
+  list-style: none;
+
+
+}
+
+.item {
+  border: 1px solid grey;
+  width: 25%;
+  text-align: center;
+
+
+
+}
+
+
+.label{
+display: block;
+}
+
+.percentage{
+display: block;
+} */
+
+
+.statistics{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  outline: 1px solid black;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.title{
+  margin: 0;
+}
+
+.statList{
+  margin: 0;
+  margin-top: 10px;
+  display: flex;
+  gap: 15px;
+  padding: 0;
+  list-style: none;
+}
