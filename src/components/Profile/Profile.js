@@ -1,5 +1,5 @@
 import style from './profile.module.css'
-import user from '../../user.json'
+
 import PropTypes from 'prop-types'
 
 

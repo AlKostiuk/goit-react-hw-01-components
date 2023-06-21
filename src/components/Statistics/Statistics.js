@@ -1,5 +1,5 @@
 import style from './statistics.module.css'
-// import generateRandomColor from './randomColorFunction';
+
 import PropTypes from 'prop-types';
 
 
